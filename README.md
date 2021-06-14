@@ -1,2 +1,2 @@
 # dsds007
-Repository of all Data Science projects
+Repository of my Data Science projects
