@@ -5,6 +5,7 @@ Figure out how to determine the market value of real estate; define parameters t
 ## Libraries used:
 
 pandas
+
 matplotlib.pyplot
 
 ## Data
