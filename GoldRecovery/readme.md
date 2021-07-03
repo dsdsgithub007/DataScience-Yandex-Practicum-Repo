@@ -75,3 +75,20 @@
 > * final concentrate recovery final.output.recovery
 > * The final metric includes the two values
 
+
+>##  Libraries Used
+> * Pandas
+> * Matplotlib.pyplot
+> * scipy.stats
+> * numpy
+> * time
+> * sklearn
+> * sys
+
+>##  Models Evaluated
+> * LinearRegression
+> * RandomForestRegressor
+> * Ridge
+> * Lasso
+> * ElasticNet
+
