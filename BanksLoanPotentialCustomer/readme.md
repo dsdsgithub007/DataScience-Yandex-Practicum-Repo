@@ -11,7 +11,7 @@ This project prepares a report for a bank’s loan division. Find out if a custo
 * pandas
 
 ## Data
-- The data may contain artifacts, or values that don't correspond to reality (for instance, a negative number of days employed). This kind of thing happens when you're working with real data. You need to describe the possible reasons such data may have turned up and process it.
+The data may contain artifacts, or values that don't correspond to reality (for instance, a negative number of days employed). This kind of thing happens when you're working with real data. You need to describe the possible reasons such data may have turned up and process it.
 
 ### Description of the data
 
