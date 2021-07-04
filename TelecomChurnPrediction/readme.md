@@ -27,7 +27,6 @@
 > * numpy
 > * collections
 > * sklearn
-> * sklearn
 > * scipy
 > * scikitplot
 > * datetime
