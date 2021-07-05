@@ -27,11 +27,11 @@ Following are the highlights of the projects:
 
 
 
-## B. Details on Data Science projects
+## B. Details on My Data Science projects
 
 
 
-### [1. ScentBird Customer Churn Prediction](https://github.com/dsdsgithub007/ScentBirdCustomerChurn)
+### [1. Scent Bird Customer Churn Prediction](https://github.com/dsdsgithub007/ScentBirdCustomerChurn)
 
 Real World project: Predict whether the Scent Bird customer will stop subscription during the first three months. The prediction model should use information collected in the first 48 hours after the subscription starts. 
 
