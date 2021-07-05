@@ -31,7 +31,7 @@ Real World project: Predict whether the Scent Bird customer will stop subscripti
 
 **Metrics:** *I obtained AUC-ROC metrics of .912 in the project.*
 
-![image-20210704030616481](C:\Users\smell\AppData\Roaming\Typora\typora-user-images\image-20210704030616481.png)
+![image-20210704030616481](/images/image-20210704030616481.png)
 
 
 
