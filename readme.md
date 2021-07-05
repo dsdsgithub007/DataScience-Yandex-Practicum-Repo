@@ -92,7 +92,7 @@ Build Machine Learning models for computer vision, for automatic verification of
 
 ### [ 4. Movie Reviews Sentiment Analysis](https://github.com/dsdsgithub007/DataScience-Yandex-Practicum-Repo/tree/main/MovieReviewsAnalysis)
 
-Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews. Used the dataset of IMBD movie reviews with polarity labelling to build a model for classifying positive and negative reviews. Key Libraries: 
+Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews. Used the dataset of IMDB movie reviews with polarity labelling to build a model for classifying positive and negative reviews. Key Libraries: 
 
 **Highlights:** *Libraries used: TF-IDF, NLTK, spaCy, transformers, Bert, tqdm.* 
 
