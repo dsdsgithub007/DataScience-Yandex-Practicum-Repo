@@ -1,8 +1,8 @@
 
 
 ## A. Introduction
-
-I successfully completed 16 projects as part of the Practicum@Yandex Data Science Professional Training program. [Certificate of Completion](https://code.s3.yandex.net/practicum_certificate/DS/05/Deepti_Sawhney.pdf)
+I am a graduate of the Data Science Professional Training program at Practicum@Yandex.
+During this program, I successfully completed 16 projects as part of the Practicum@Yandex Data Science Professional Training program. [Certificate of Completion](https://code.s3.yandex.net/practicum_certificate/DS/05/Deepti_Sawhney.pdf)
 
 Following are the highlights of the projects:
 
